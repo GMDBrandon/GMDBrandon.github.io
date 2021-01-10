@@ -1,6 +1,6 @@
 <html>
  <head>
- <title>GMDBrandon's totally awesome website</title>
+# GMDBrandon's totally awesome website
  </head>
  <body>
  <h1>HI! My name is GMDBrandon! Welcome to my website :D</h1>

@@ -1,5 +1,3 @@
-<html>
- <head>
 # GMDBrandon's totally awesome website
  </head>
  <body>
